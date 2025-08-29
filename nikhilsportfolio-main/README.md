@@ -1,73 +1,58 @@
-# Welcome to your Lovable project
+# 🌐 Nikhil Patil - Portfolio Website
 
-## Project info
+Welcome to my personal **Portfolio Website** 🚀  
+This site showcases my background, skills, services, and projects as a **Full Stack Developer & Data Analyst**.  
 
-**URL**: https://lovable.dev/projects/c9152376-abba-4c72-a9c9-54aaa00ec74b
+👉 [Live Demo](https://your-deployed-link.com)  
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 📌 About Me
+I am an IT Engineer and detail-oriented Full Stack Developer with expertise in the **MERN stack**, REST API development, and responsive web applications.  
+Currently pursuing **B.Tech in Information Technology** at *Vishwakarma Institute of Information Technology* (Expected 2026).  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c9152376-abba-4c72-a9c9-54aaa00ec74b) and start prompting.
+## ⚡ Features
+- Modern responsive design  
+- Dark/Light theme toggle  
+- Projects showcase with GitHub links  
+- Contact form integration  
+- Smooth animations and professional UI  
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind CSS  
+- **Backend (Projects):** Node.js, Express.js, MongoDB  
+- **Tools:** Git, GitHub, Vercel, Render, Cloudinary  
+- **Data Analytics:** Power BI, Tableau  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 💼 Projects Showcased
+- **YouTube-like Video Streaming Backend**  
+- **Help-O-Ride** – College connection for easy, no-cost commutes  
+- **PlantChainAI** – AI + Blockchain system for protected plant trade tracking  
 
-Follow these steps:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 📂 Getting Started
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 1️⃣ Clone the Repo
+```bash
+1: git clone https://github.com/NikhilPatil5720/portfolio.git
+cd portfolio
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+2️: Install Dependencies
+npm install
+
+3️: Run the Development Server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Visit 👉 http://localhost:5173
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c9152376-abba-4c72-a9c9-54aaa00ec74b) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+⭐ If you like this project, don’t forget to star the repo!
