@@ -88,7 +88,7 @@ const AboutSection = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold">Location</h4>
-                  <p className="text-sm text-muted-foreground">Currently Based In</p>
+                  <p className="text-sm text-muted-foreground">Currently Based In Pune</p>
                 </div>
               </div>
               
