@@ -85,7 +85,7 @@ const ContactSection = () => {
     {
       icon: MapPin,
       label: "Location",
-      value: "India",
+      value: "Pune ,Maharashtra, India",
       color: "from-purple-500 to-pink-500"
     }
   ];

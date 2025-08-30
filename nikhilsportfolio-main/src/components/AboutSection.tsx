@@ -74,7 +74,7 @@ const AboutSection = () => {
                     <p className="text-sm text-muted-foreground">
                       Vishwakarma Institute of Information Technology
                     </p>
-                    <p className="text-xs text-muted-foreground">Expected 2026</p>
+                    <p className="text-xs text-muted-foreground">Expected 2027</p>
                   </div>
                 </div>
               </div>
