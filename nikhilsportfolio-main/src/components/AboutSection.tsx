@@ -36,7 +36,7 @@ const AboutSection = () => {
               <p>
                 I have a strong foundation in Database Management Systems, Operating Systems, 
                 Computer Networks, and Software Engineering principles. Currently expanding my 
-                expertise in data analytics with tools like Power BI and Tableau...
+                expertise in data analytics with tools like Power BI and Tableau.
               </p>
             </div>
 
